@@ -1,0 +1,45 @@
+# Django
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Virtual environment
+venv/
+env/
+.venv/
+.Python
+
+# Logs
+*.log
+
+# Local development settings
+local_settings.py
+
+# Media
+media/
+
+# Static files
+static/
+
+# Compiled Python files
+*.pyc
+
+# Node.js
+node_modules/
+
+# React build artifacts
+/build/
+
+# Compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Dependency directories
+__pycache__/
+node_modules/
